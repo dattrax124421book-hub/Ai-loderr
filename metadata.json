@@ -1,0 +1,6 @@
+{
+  "name": "LocalLM",
+  "description": "High-performance local GGUF AI model inference engine and chat interface optimized for MediaTek Helio G100-Ultra and Mali-G57 Vulkan acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
